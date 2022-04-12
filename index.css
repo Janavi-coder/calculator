@@ -2,9 +2,15 @@ body{
     margin: 0;
     padding:0;
     line-height: 0.5;
-    background:linear-gradient(to left,#7808f0,#06bdf5);
+    background:linear-gradient(to left,#feac5e,#C779D0,#4BC0C8);
     font-family: sans-serif;
     align-content: center;
+}
+header{
+    position: fixed;
+    top: 0px;
+    margin: 0px; 
+    color: whitesmoke;
 }
 
 .calci{
