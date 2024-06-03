@@ -1,1 +1,3 @@
-# calculator
+# calculator <br>
+
+Author - Janavi M
